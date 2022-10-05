@@ -2,6 +2,7 @@ locationTypeCode,description
 H,home
 E,edge
 B,biome
+BB,biome bottom (implies depth = floor)
 I,misc. point of interest
 N,[cave] entrance
 P,portal

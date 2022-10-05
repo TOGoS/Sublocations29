@@ -71,7 +71,7 @@ function getLocationCssClass(loc:Location) {
 		} else {
 			return 'entrance';
 		}
-	case 'B':
+	case 'B': case 'BB':
 		if( loc.regionCode ) {
 			return `biome ${loc.regionCode.toLowerCase()}-biome`;
 		} else {
@@ -85,7 +85,7 @@ function getLocationDisplayInfo(loc:Location) {
 	const cssClassName = getLocationCssClass(loc);
 	return {
 		cssClassName,
-		circleRadius: loc.locationTypeCode == 'B' ? 20 : 5
+		circleRadius: (loc.locationTypeCode == 'B' || loc.locationTypeCode == 'BB') ? 20 : 5
 	}
 }
 
