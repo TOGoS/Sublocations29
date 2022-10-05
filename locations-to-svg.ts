@@ -65,7 +65,12 @@ function getLocationCssClass(loc:Location) {
 	case 'E': return 'edge';
 	case 'H': return 'home';
 	case 'P': return 'portal';
-	case 'N': return 'entrance';
+	case 'N':
+		if( loc.regionCode ) {
+			return `entrance ${loc.regionCode.toLowerCase()}-biome`;
+		} else {
+			return 'entrance';
+		}
 	case 'B':
 		if( loc.regionCode ) {
 			return `biome ${loc.regionCode.toLowerCase()}-biome`;
@@ -90,33 +95,10 @@ console.log(`
 		style="background: black"
 		width="${(maxX-minX) * mapScale}" height="${(maxY-minY)*mapScale}">
 	<style>
-	.edge {
-		fill: blue;
-	}
-	.home {
-		fill: yellow;
-	}
-	.portal {
-		fill: lime;
-	}
-	.entrance {
-		fill: #498;
-	}
-	.poi {
-		fill: silver;
-	}
-	.biome {
-		fill: silver;
-		fill-opacity: 0.5;
-	}
-	.sd-biome {
-		fill: #A08030;
-	}
-	.mf-biome {
-		fill: #907070;
-	}
+		${await Deno.readTextFile('./style.css')}
 	</style>
 `);
+
 for( const loc of locations ) {
 	const di = getLocationDisplayInfo(loc);
 	console.log(`\t<circle class="${di.cssClassName}" r="${di.circleRadius}" cx="${loc.x.toFixed(0)}" cy="${loc.y.toFixed(0)}" title="${loc.distance}"/>`);

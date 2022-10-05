@@ -76,7 +76,7 @@ distance,heading,depth,locationTypeCode,regionCode,note
 1516,315,378,I,,sanctuary #3
 1400,322,283,B,SD,long sandy slope
 1593,332,424,B,BK,blood vine Forest
-1313,330,539,N,LR,cave with fossils
+1313,330,539,I,LR,cave with fossils
 1473,285,411,I,,thermal vent crater+brain coral+rubies+caves
 
 1209,212,598,N,LR,southwest entrance to Lost River
@@ -85,4 +85,47 @@ distance,heading,depth,locationTypeCode,regionCode,note
 1259,210,1250,I,LC,Reaper skeleton
 1073,232,192,N,LR,W Cyclops entrance
 1404,253,357,N,LR,deep caves W entrance
-1510, 55,  0,N,LR,E entrance (below this point)
+# 1510, 55,  0,N,LR,E entrance (below this point)
+1553, 55,400,N,LR,E entrance to Lost River
+1331,337,431,N,LR,N entrance to Lost River
+
+# In Lost river cave system:
+1045,308, 800,I,LR,green falls
+1210,293, 863,I,LR,giant cove tree
+1466,285, 919,I,LR,blue falls
+1103,294, 863,H,LR,moon pool
+ 908,255, 745,I,LR,bone cave
+1134,263, 744,I,LR,bone cave lava coral
+
+1075,256, 249,V,,a vent
+ 499,256,  68,W,,a wreck
+ 375,255,  85,N,PC,purple cave entrance
+
+ 227, 98,  0,H,SS,Sara's lifepod
+ 883,159, 25,I,SD,Reaper Ridge
+ 720,240,104,B,BK
+1619,263,349,I,,titanium in worm cave
+
+ 560,150, 92,N,PC,purple cave SE entrance
+
+# Southeast
+1953,173,471,E,,
+1420,203,541,I,GR,blue orb thermal vents
+1796,181,425,B,TP,pooper plane
+ 562,150, 14,B,SS
+ 651,180, 25,B,KF
+1788,172,364,B,CF,sharkey mountains
+1627,170,295,B,CF
+1545,166,262,B,CF
+1462,167,278,B,CF
+
+ 782,174, 88,B,RG
+ 830,172,122,B,RG
+ 878,170,122,B,RG
+ 911,166,122,B,RG
+1066,162, 71,B,RG
+
+1189,161,174,W,SD
+1191,158,167,B,SD
+1224,154,158,B,SD
+1329,159,193,B,SS,deep coral outcrop

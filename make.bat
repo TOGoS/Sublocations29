@@ -1,3 +1,3 @@
 @echo off
 
-deno run csv-to-json.ts --imply:recordType=location <sublocations.csv | deno run locations-to-svg.ts >map.svg
+grep -v '#' sublocations.csv | deno run csv-to-json.ts --imply:recordType=location | deno run --allow-read locations-to-svg.ts >map.svg

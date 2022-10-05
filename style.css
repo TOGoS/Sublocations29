@@ -1,0 +1,40 @@
+.edge {
+	fill: blue;
+}
+.home {
+	fill: yellow;
+}
+.portal {
+	fill: lime;
+}
+.entrance {
+	fill: #498;
+}
+.poi {
+	fill: silver;
+}
+.biome {
+	fill: silver;
+	fill-opacity: 0.5;
+}
+.sd-biome {
+	fill: #A08030;
+}
+.mf-biome {
+	fill: #907070;
+}
+.cf-biome {
+	fill: #444;
+}
+.bk-biome {
+	fill: #828;
+}
+.kf-biome {
+	fill: #3A3;
+}
+.pc-biome {
+	fill: #A0A;
+}
+.rg-biome {
+	fill: #833;
+}
