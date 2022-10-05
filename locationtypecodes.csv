@@ -1,0 +1,9 @@
+locationTypeCode,description
+H,home
+E,edge
+B,biome
+I,misc. point of interest
+N,[cave] entrance
+P,portal
+S,shore
+W,wreck

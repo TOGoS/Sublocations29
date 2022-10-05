@@ -1,0 +1,88 @@
+distance,heading,depth,locationTypeCode,regionCode,note
+
+0,0,0,H,SS,Dan's life pod
+
+# Edge locatoins from p75
+
+1964,180,456,E,TP,bottom feeders roam here
+1998,190,461,E
+2056,195,464,E
+2039,205,428,E
+2014,210,351,E
+2007,205,413,E
+1757,233,469,E
+1805,240,380,E
+1781,244,342,E
+1631,244,395,E
+1594,251,384,E
+1706,252,410,E
+1213,252,316,E,,this one is fishy; maybe that should be 1713?
+
+1944,67,364,E
+
+1883,308,445,E
+1745,305,415,E
+1664,317,430,E
+1724,322,406,E
+1813,319,388,E
+1954,323,377,E
+
+1936,165,307,E,CF
+1797,170,331,E,CF
+
+1699,260,411,E
+
+# Edge locations from  p78
+
+2000,178,449,E
+1947,175,448,E
+1912,174,443,E
+1811,132,361,E
+1913,129,281,E
+1958,125,310,E
+1799,114,311,E
+1830,101,272,E
+1945, 99,322,E
+1885, 91,379,E
+1774, 86,369,E
+1951, 83,370,E
+1940, 80,389,E
+
+# Portals
+
+ 762,293,228,P,MF,Air West
+1690, 67,300,P,EB,Air East
+1472,178,291,P,CF,Air South
+
+# Islands
+
+1200,200,0,S,,SW island shore
+1300,205,0,W,,SW island pond
+
+# Misc stuff from top of p75
+
+1727,205,449,W,,Place
+1162,228,221,,,Interesting green cave
+1691,198,345,B,TP,Poop
+# 1213 Blood Oil Rek
+
+# p76
+
+ 700,315,158,B,MF
+1234,315,226,B,MF
+
+ 368, 10, 60,I
+1483,315,392,I,,big round crater rock
+1516,315,378,I,,sanctuary #3
+1400,322,283,B,SD,long sandy slope
+1593,332,424,B,BK,blood vine Forest
+1313,330,539,N,LR,cave with fossils
+1473,285,411,I,,thermal vent crater+brain coral+rubies+caves
+
+1209,212,598,N,LR,southwest entrance to Lost River
+1476,330,319,W,,a wreck
+1187,142,1182,I,LC,alient powerplant entrance
+1259,210,1250,I,LC,Reaper skeleton
+1073,232,192,N,LR,W Cyclops entrance
+1404,253,357,N,LR,deep caves W entrance
+1510, 55,  0,N,LR,E entrance (below this point)
