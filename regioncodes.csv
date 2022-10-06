@@ -1,8 +1,9 @@
-regionCode,title
+regionCode,title,note
 BK,Blood Kelp
 CF,Crag Field
 EB,Electric Balls
 GR,Grand Reef
+IB,Island Beach
 LC,Lava Cave
 LR,Lost River
 KF,Kelp Forest
@@ -11,4 +12,5 @@ PC,Purple Cave
 RG,Red Grass
 SD,Sand Dunes
 SS,Safe Shallows
+SR,Sandy Rocks,kelp forest/shallows floor but otherwise barren except for sharks
 TP,Sea Treader Path

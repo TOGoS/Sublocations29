@@ -18,7 +18,7 @@
 	fill-opacity: 0.5;
 }
 .sd-biome {
-	fill: #A08030;
+	fill: #AA8;
 }
 .mf-biome {
 	fill: #907070;
@@ -37,4 +37,10 @@
 }
 .rg-biome {
 	fill: #833;
+}
+.ss-biome {
+	fill: #C0A080;
+}
+.sp-biome, .br-biome {
+	fill: #444;
 }

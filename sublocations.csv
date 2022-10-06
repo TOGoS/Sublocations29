@@ -137,3 +137,87 @@ distance,heading,depth,locationTypeCode,regionCode,note
 1876, 65,377,BB,EB
 1925, 65,344,BB,EB
 1952, 65,367,E
+
+# These might be wrong by like 90 degrees somehow lol
+# 298,164, 70,BB,RG
+# 264,164, 64,BB,KF
+# 221,164, 75,BB,KF
+# 197,158, 57,BB,KF
+# 112,160, 58,BB,KF
+#  62,157, 19,BB,SS
+  
+ 108,338, 31,BB,SS
+ 160,320, 63,BB,KF
+ 283,310, 85,BB,KF
+ 441,300, 45,BB,KF
+ 587,295,101,BB,KF
+ 609,298,149,BB,MF
+ 611,324,150,BB,MF
+ 666,315,185,BB,MF
+ 698,317,149,BB,RG
+ 532,323,128,BB,RG
+ 487,348,111,BB,RG
+ 385,  0, 44,BB,KF
+ 444,  8, 32,BB,SR
+ 464, 32, 26,BB,KF
+ 665, 32, 46,BB,KF
+ 819, 22, 35,BB,SR
+1012, 23, 31,BB,SR
+1082, 25,-10,BB,IB
+1158, 27,  0,I,,entrance to big gun building
+1298, 26, 32,I,,north tip of big gun building
+1356, 20,235,H,,charging station
+1264, 14,263,BB,BR
+1103,  6,485,BB,SP
+ 894,  5,522,BB,SP
+ 726,  5,364,BB,SP
+ 644,  8,288,BB,SP
+ 545, 14,153,BB,SP
+ 542, 15,164,N,SP,small cave
+ 431, 37, 47,BB,KF
+ 521, 50, 94,BB,RG
+ 579, 53, 79,W,RG,big square wreck with plant pots;heading might be wrong lol
+ 572, 75,106,BB,RG
+ 491, 75,113,W,RG,small wreck with Fisher Price forklift
+ 711, 80,147,BB,MF`
+ 729, 95, 43,BB,SD
+ 726,130, 10,I,SD,back-left corner of Aurora
+ 658,128, 22,BB,SD
+ 609,135, 45,BB,KF
+ 564,140, 92,BB,RG
+ 659,157, 91,BB,RG
+ 611,165, 52,BB,KF
+ 622,173, 53,BB,KF
+ 657,179, 37,BB,KF
+ 558,188,  5,BB,KF
+ 437,197, 81,BB,RG
+ 393,217,108,N,PC,southwest purple cave entrance
+# Approaching my aquarium base from the...south?
+ 368,231, 76,BB,RG
+ 275,232, 68,BB,KF
+ 388,255, 62,H,RG,Dan's red grass/aquarium megabase
+ 416,266, 63,BB,RG
+ 376,277, 20,BB,SS
+ 292,286,  7,BB,SS
+ 290,305, 33,BB,KF
+ 252,311, 84,W,KF,a wreck and a mesmer cave
+ 143,329, 62,BB,KF
+  55,326, 18,BB,SS
+# Going south
+  53,180,  8,BB,SS
+ 204,179, 19,BB,SS
+ 375,179, 17,BB,SS
+ 339,165, 13,BB,KF
+ 425,149, 21,BB,SS
+ 578,142, 74,BB,RG
+ 619,120, 28,BB,SS
+ 600,120, 28,W,SS,medium wreck; bring repair tool
+ 543.112, 27,BB,SS
+ 419,105, 84,BB,RG
+ 372, 98, 97,BB,RG
+ 269, 93, 50,BB,SS
+ 195, 75, 37,BB,SS
+ 136, 98, 25,BB,SS,cute little nest with caves
+ 
+ 
+ 
