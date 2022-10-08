@@ -179,7 +179,7 @@ distance,heading,depth,locationTypeCode,regionCode,note
  579, 53, 79,W,RG,big square wreck with plant pots;heading might be wrong lol
  572, 75,106,BB,RG
  491, 75,113,W,RG,small wreck with Fisher Price forklift
- 711, 80,147,BB,MF`
+ 711, 80,147,BB,MF
  729, 95, 43,BB,SD
  726,130, 10,I,SD,back-left corner of Aurora
  658,128, 22,BB,SD
@@ -220,3 +220,86 @@ distance,heading,depth,locationTypeCode,regionCode,note
  136, 98, 25,BB,SS,cute little nest with caves
 
  331, 18, 18,W,KF,Lifepod 3
+
+# Random wandering, 2022-10-07
+ 587, 30, 29,BB,KF,cool kelp forest bridge
+ 358, 37, 30,W,KF,small wreck
+ 211,165, 10,BB,SS
+ 356,142, 22,BB,SS
+ 381,136, 53,BB,KF
+ 445,127, 30,BB,SS
+ 416,128, 46,BB,SS
+ 367,128, 46,BB,KF
+ 320,128, 42,BB,KF
+ 271,128, 23,BB,SS
+ 271,128, 23,W,SS,small wreck
+ 417,135, 25,BB,SS
+ 360,135, 40,BB,KF
+ 300,135, 31,BB,SS
+ 235,135, 17,BB,SS
+ 186,135,  9,BB,SS
+ 127,135,  6,BB,SS
+  64,133, 21,BB,SS
+
+# Going west
+  86,270, 53,BB,SS
+ 152,270, 79,BB,KF
+ 200,270, 75,BB,KF
+ 284,270, 64,BB,RG
+ 404,270, 64,BB,RG
+ 485,270, 43,BB,SS
+ 586,270, 49,BB,SS
+ 671,270, 64,BB,SS
+ 676,265, 85,BB,RG
+ 706,262,113,BB,RG
+ 781,262,138,BB,RG
+ 787,263,122,BB,RG
+ 654,277, 29,BB,SS
+ 701,278, 41,BB,SS
+ 747,278, 93,BB,KF
+ 804,281,176,BB,MF
+ 873,277,137,BB,SR
+ 938,275,169,BB,SD
+ 841,276, 88,BB,KF
+ 822,273, 72,BB,KF
+ 745,270, 64,BB,SS
+
+ 844,262,153,BB,RG
+# There's a reaper just at the fog distance to the west of
+# the above point, so, estimating:
+ 950,262,153,I,SD,reaper hangs out about here
+
+ 893,255,151,BB,RG
+ 868,258,183,BB,SD
+ 786,255,133,BB,RG
+ 880,248,143,BB,RG
+ 922,249,145,BB,RG
+ 922,253,192,BB,SD
+ 838,258,134,BB,RG
+ 872,243, 89,BB,RG
+ 828,240, 81,BB,RG
+ 769,240, 83,BB,RG
+ 708,242,110,BB,RG
+ 665,238,112,BB,RG
+ 738,233, 82,BB,SR
+ 870,236, 93,BB,SR
+ 916,235,149,BB,SR
+ 970,234,197,BB,SR
+1035,233,234,BB,SR
+1105,238,260,BB,SR
+1063,242,228,BB,SD
+ 972,247,184,BB,SD
+ 810,242,116,BB,RG
+ 769,235,229,BB,BK
+ 701,232, 88,BB,SD
+ 640,232, 95,BB,SD
+ 578,232,111,BB,RG
+ 516,232,107,BB,RG
+ 461,232, 93,BB,RG
+ 388,232, 87,BB,RG
+ 383,225, 84,BB,RG
+ 295,225, 69,BB,KF
+ 269,240, 67,BB,KF
+ 313,247, 77,BB,RG
+ 414,247, 93,W,RG,pod 17
+ 414,247, 97,BB,RG
