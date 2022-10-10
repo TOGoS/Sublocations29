@@ -303,3 +303,15 @@ distance,heading,depth,locationTypeCode,regionCode,note
  313,247, 77,BB,RG
  414,247, 93,W,RG,pod 17
  414,247, 97,BB,RG
+
+# A different way
+ 880,305, 51,I,MF,tip of giantest mushroom tree
+ 925,305,156,BB,MF
+1162,308,213,BB,MF
+1152,305,210,BB,MF
+1191,305,214,BB,MF
+1251,306,240,BB,SD
+1338,306,285,BB,SD
+
+1885,300,376,B,V
+1849,302,367,BB,SD

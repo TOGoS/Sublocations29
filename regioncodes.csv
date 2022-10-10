@@ -1,5 +1,6 @@
 regionCode,title,note
 BK,Blood Kelp
+BR,Barren Rock
 CF,Crag Field
 EB,Electric Balls
 GR,Grand Reef
@@ -12,5 +13,7 @@ PC,Purple Cave
 RG,Red Grass
 SD,Sand Dunes
 SS,Safe Shallows
+SP,Shark Pit
 SR,Sandy Rocks,kelp forest/shallows floor but otherwise barren except for sharks
 TP,Sea Treader Path
+V,Void
